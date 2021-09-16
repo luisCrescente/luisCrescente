@@ -17,7 +17,7 @@ Estudiante graduado de Digital House en el curso de Programación Web Full Stack
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/lcrescente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-crescente" height="30" width="40" /></a>
-  <a href ="https://www.codewars.com/users/SuperJavsSCript"><img align="center" src="codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg "alt="codewars" height="30" width="40">
+  <a href ="https://www.codewars.com/users/SuperJavsSCript"><img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg">
   </a>
 </p>
 
