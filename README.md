@@ -16,7 +16,7 @@ Estudiante graduado de Digital House en el curso de Programación Web Full Stack
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/lcrescente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estefania-santana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lcrescente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-crescente" height="30" width="40" /></a>
 </p>
 
 
