@@ -5,18 +5,21 @@
 Estudiante graduado de Digital House en el curso de Programación Web Full Stack, donde aprendemos a programar páginas web desde cero para el funcionamientoun de sitios web usandon las mejores prácticas conocidas y la lógica de un programador.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lcrescente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estefania-santana" height="30" width="40" /></a>
-</p>
-
-
 ## projects:
 - [Mosaik](https://github.com/demetSanz/grupo_10_mosaik) 
 - [Mercado Liebre](https://github.com/luisCrescente/Mercado-Liebre) 
 -
 -
 -
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lcrescente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estefania-santana" height="30" width="40" /></a>
+</p>
+
+
 
   
 ## Languages and Tools:
