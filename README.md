@@ -10,7 +10,7 @@ Estudiante graduado de Digital House en el curso de Programación Web Full Stack
 <a href="https://linkedin.com/in/lcrescente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estefania-santana" height="30" width="40" /></a>
 </p>
 
-##<h4>Other projects:<h4>
+##Other projects:
   
   
 ## Languages and Tools:
