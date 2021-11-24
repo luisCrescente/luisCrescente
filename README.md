@@ -9,7 +9,7 @@ Estudiante graduado de Digital House en el curso de Programación Web Full Stack
 - [Portfolio](https://github.com/luisCrescente/portfolio)
 - [Mosaik](https://github.com/demetSanz/grupo_10_mosaik) 
 - [Mercado Liebre](https://github.com/luisCrescente/Mercado-Liebre) 
-- [Portfolio](https://github.com/luisCrescente/mi-porfolio-mvc)
+- [Images](https://github.com/luisCrescente/mi-porfolio-mvc)
 -
 
 
