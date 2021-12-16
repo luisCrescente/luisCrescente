@@ -2,7 +2,7 @@
 
 
 ### Estudiante Full Stack (Digital House) 🧑🏽‍🎓
-Estudiante graduado de Digital House en el curso de Programación Web Full Stack, donde aprendemos a programar páginas web desde cero para el funcionamientoun de sitios web usandon las mejores prácticas conocidas y la lógica de un programador.
+Estudiante graduado de Digital House en el curso de Programación Web Full Stack, donde aprendemos a programar páginas web desde cero para el funcionamiento de un sitios web usandon las mejores prácticas conocidas y la lógica de un programador.
 
 
 ## projects:
